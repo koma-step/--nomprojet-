@@ -10,7 +10,7 @@ ne programme sous android, va donc falloir apprendre, je vous propose donc ces q
 cours qui me paraissent nécessaire avant de commencer un projet de cette envergure :
 
 - http://www.siteduzero.com/informatique/tutoriels/apprenez-a-programmer-en-java
-- mention spécial au strategy pattern du chapitre 5 partie 2, que je vous demande
+  mention spécial au strategy pattern du chapitre 5 partie 2, que je vous demande
   de comprendre sur le bout des doigt
 - pour la partie 3, android a sa propre gestion d’événement, elle est donc optionnel,
   sauf pour les chapitre 6, 11 et 14 qui vous serviront partout
