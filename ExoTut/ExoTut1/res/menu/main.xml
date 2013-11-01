@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_save"
+        android:orderInCategory="100"
+        android:title="Sauvegarder"/>
+    
+    <item 
+        android:id="@+id/action_load"
+        android:orderInCategory="200"
+        android:title="Charger"/>
+
+</menu>
