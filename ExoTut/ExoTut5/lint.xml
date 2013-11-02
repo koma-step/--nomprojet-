@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="NewApi">
+        <ignore path="src/com/exoTut/ExoTut5/BluetoothChat.java" />
+        <ignore path="src/com/exoTut/ExoTut5/DeviceListActivity.java" />
+    </issue>
+</lint>
